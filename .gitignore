@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle/
+.idea/
+TextViewVertical.iml
+build/
+gradle/
+gradlew
+gradlew.bat
+local.properties
+plumb-textview/build/
+plumb-textview/plumb-textview.iml
+sample/build/
+sample/sample.iml
